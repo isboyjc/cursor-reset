@@ -1,16 +1,6 @@
 @echo on
-REM Change to the directory where your project should be located
-cd "C:\Users\delet\Desktop\cursor-reset"
-
-REM Check if the cursor-reset folder exists and contains the repository
-if not exist "cursor-reset\.git" (
-    echo Repository not found. Cloning the repository...
-    git clone https://github.com/isboyjc/cursor-reset.git
-    cd "cursor-reset"
-) else (
-    echo Repository already exists. Changing directory...
-    cd "cursor-reset"
-)
+REM Ensure the script is running in the correct directory (where package.json is located)
+echo Running in directory: %cd%
 
 REM Install dependencies
 echo Installing dependencies...
