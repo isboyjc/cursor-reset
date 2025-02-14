@@ -7,6 +7,8 @@ Cursor 编辑器试用期重置工具
 [![GitHub issues](https://img.shields.io/github/issues/isboyjc/cursor-reset)](https://github.com/isboyjc/cursor-reset/issues)
 [![GitHub forks](https://img.shields.io/github/forks/isboyjc/cursor-reset)](https://github.com/isboyjc/cursor-reset/network)
 
+[Cursor 教程](https://kxcbxprh5yy.feishu.cn/wiki/YG1twgE87i9JoEkUbZdcYPuAn9e)
+
 简体中文 | [English](./README.md)
 
 ## 特性
@@ -18,17 +20,15 @@ Cursor 编辑器试用期重置工具
 
 ## 注意
 
-由于 Cursor 新版本限制，45.3 版本以上 Cursor 的重置将不再支持。
+由于 Cursor 新版本限制，45 版本以上 Cursor 的重置将不再支持。
 
 因为新版本如果支持的话需要修改电脑底层的一些东西，会影响您其他程序的使用。
 
-所以不考虑支持更高版本，您如果还想使用此脚本，请查看您的 Cursor 版本下载 Cursor 45.3 以下版本。
+所以不考虑支持更高版本，您如果还想使用此脚本，请查看您的 Cursor 版本下载 Cursor 45 以下版本。
 
-**目前 Cursor 仅 45.3 以下版本测试支持重置指纹。（个别用户 45 以上都不可用，所以如果你的重置不成功，请使用 44.11 版本，它是保底选项。）**
+**目前 Cursor 仅 44.11 版本测试支持重置指纹。**
 
-**45.4-45.9 未测试，大家可以测试下给我反馈。**
-
-**大于 45.10 不可用**
+**大于 45 不可用**
 
 **该脚本已于 2025.02.11 日进行最后一次更新，此次更新内容如下：**
 
@@ -38,14 +38,7 @@ Cursor 编辑器试用期重置工具
 
 | 版本 | 时间 | MacOS 下载 | Windows X64 下载 | Linux X64 下载 | 是否可用 |
 | --- | --- | --- | --- | --- | --- |
-| 0.45.9 | 2025-02-04 | [Link](https://downloader.cursor.sh/builds/250202tgstl42dt/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250202tgstl42dt/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250202tgstl42dt/linux/appImage/x64) | ❓未测试 |
-| 0.45.8 | 2025-02-02 | [Link](https://downloader.cursor.sh/builds/250201b44xw1x2k/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250201b44xw1x2k/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250201b44xw1x2k/linux/appImage/x64) | ❓未测试 |
-| 0.45.7 | 2025-01-31 | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/linux/appImage/x64) | ❓未测试 |
-| 0.45.5 | 2025-01-29 | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/linux/appImage/x64) | ❓未测试 |
-| 0.45.4 | 2025-01-27 | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/linux/appImage/x64) | ❓未测试 |
-| 0.45.3 | 2025-01-25 | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/linux/appImage/x64) | 个别支持 |
-| 0.45.2 | 2025-01-24 | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/linux/appImage/x64) | 个别支持 |
-| 0.44.11 | 2025-01-04 | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/linux/appImage/x64) | ✅支持（保底选项） |
+| 0.44.11 | 2025-01-04 | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/linux/appImage/x64) | ✅支持  |
 
 ## 使用方法
 
