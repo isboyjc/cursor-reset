@@ -24,7 +24,7 @@ Supporting newer versions would require modifying system-level components, which
 
 Therefore, we will not consider supporting higher versions. If you still want to use this script, please check your Cursor version and download Cursor version below 45.3.
 
-**Currently, only Cursor versions below 45.3 have been tested to support fingerprint reset.**
+**Currently, only Cursor versions below 45.3 have been tested to support fingerprint reset. (Some users report that versions above 45 don't work at all, so if the reset fails for you, please use version 44.11 as it's the most reliable fallback option.)**
 
 **Versions 45.4-45.9 are untested, please test and provide feedback.**
 
@@ -43,9 +43,9 @@ The script disables software auto-updates during execution, so if you pay to use
 | 0.45.7 | 2025-01-31 | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250130nr6eorv84/linux/appImage/x64) | ❓Untested |
 | 0.45.5 | 2025-01-29 | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250128loaeyulq8/linux/appImage/x64) | ❓Untested |
 | 0.45.4 | 2025-01-27 | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250126vgr3vztvj/linux/appImage/x64) | ❓Untested |
-| 0.45.3 | 2025-01-25 | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/linux/appImage/x64) | ✅Supported |
-| 0.45.2 | 2025-01-24 | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/linux/appImage/x64) | ✅Supported |
-| 0.44.11 | 2025-01-04 | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/linux/appImage/x64) | ✅Supported |
+| 0.45.3 | 2025-01-25 | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250124b0rcj0qql/linux/appImage/x64) | Individual support |
+| 0.45.2 | 2025-01-24 | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250123mhituoa6o/linux/appImage/x64) | Individual support |
+| 0.44.11 | 2025-01-04 | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/mac/installer/universal) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/windows/nsis/x64) | [Link](https://downloader.cursor.sh/builds/250103fqxdt5u9z/linux/appImage/x64) | ✅Supported（Guaranteed Options） |
 
 ## Usage
 
